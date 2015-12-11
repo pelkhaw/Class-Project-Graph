@@ -1,4 +1,4 @@
-*Graph.c                 
+/*Graph.c                 
  * Paul El-khawaja           
  * ECE 223 Fall 2015
  * MP6
